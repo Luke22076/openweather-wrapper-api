@@ -118,4 +118,3 @@ If you'd like to contribute to this project, feel free to open an issue. Any con
 Thank you for using the OpenWeather Wrapper API! If you have any questions, feel free to open an issue or reach out.
 
 Enjoy coding! 😊
-```
