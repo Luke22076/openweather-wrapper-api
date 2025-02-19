@@ -1,0 +1,22 @@
+{
+  "name": "openweather-wrapper-api",
+  "version": "1.5.0",
+  "description": "A simple wrapper for the OpenWeather API to get weather information.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luke22076/openweather-wrapper-api.git"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^10.0.0"
+  },
+  "author": "Luvus",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
