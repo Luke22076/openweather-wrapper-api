@@ -11,6 +11,13 @@ A simple and easy-to-use wrapper for the OpenWeather API to fetch weather data f
 - Uses `.env` file to securely store and load the OpenWeather API key.
 
 ---
+## Install
+Simply install the package with
+```
+npm i openweather-wrapper-api
+```
+
+---
 
 ## Setup
 
