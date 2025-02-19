@@ -1,4 +1,3 @@
-```md
 # OpenWeather Wrapper API
 
 A simple and easy-to-use wrapper for the OpenWeather API to fetch weather data for a given city. It allows you to get current weather information such as temperature, humidity, weather conditions, and wind speed.
