@@ -1,6 +1,6 @@
 {
   "name": "openweather-wrapper-api",
-  "version": "1.5.0",
+  "version": "1.5.3",
   "description": "A simple wrapper for the OpenWeather API to get weather information.",
   "main": "src/index.js",
   "repository": {
